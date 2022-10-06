@@ -1,4 +1,4 @@
-#import thr required libraries 
+#import the required libraries 
 
 import streamlit as st
 import pandas as pd
